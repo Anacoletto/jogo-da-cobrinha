@@ -1,4 +1,4 @@
-# jogo da cobrinha
+# Jogo da Cobrinha
 
 ## Descrição
 Projeto desenvolvido para praticar lógica de programação e manipulação do JavaScript.
